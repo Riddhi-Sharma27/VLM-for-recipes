@@ -1,0 +1,127 @@
+[
+    {
+        "file_name": "chicken_fajita.jpeg",
+        "noisy_title": "peppery chicken sizzle",
+        "instructions": [
+            "In a bowl, whisk together vegetable oil, chili powder, lime juice, honey, garlic powder, paprika, and black pepper.",
+            "Add chicken to the marinade, ensuring it's well-coated. Let it sit for at least 30 minutes.",
+            "Preheat the grill to medium-high heat.",
+            "Grill the marinated chicken until it's browned and cooked through, about 6-7 minutes per side.",
+            "Remove from the grill and let rest for a few minutes before slicing.",
+            "Serve the grilled chicken slices in warm tortillas with your choice of toppings."
+        ],
+        "summary": "Whisk vegetable oil, chili powder, lime juice, honey, garlic powder, paprika, and black pepper together. Add chicken, let it sit. Grill until brown."
+    },
+    {
+        "file_name": "red_velvet_cupcakes.jpeg",
+        "noisy_title": "crimson sweet bites",
+        "instructions": [
+            "Preheat the oven to 350°F (175°C). Line 30 muffin cups with paper liners.",
+            "In a medium bowl, mix together flour, cocoa powder, baking soda, and salt. Set aside.",
+            "In a large bowl, beat sugar and butter with an electric mixer on medium speed until light and fluffy, about 5 minutes.",
+            "Add eggs, one at a time, beating well after each addition.",
+            "Mix in sour cream, milk, red food coloring, and vanilla extract.",
+            "Gradually add the dry flour mixture to the wet ingredients, mixing until just blended.",
+            "Spoon the batter into the prepared muffin cups, filling each about two-thirds full.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 20 minutes.",
+            "Cool in the pans for 5 minutes, then remove cupcakes from the pans and cool completely on a wire rack.",
+            "For the frosting, beat cream cheese, butter, sour cream, and vanilla extract in a large bowl until light and fluffy.",
+            "Gradually beat in confectioners' sugar until smooth.",
+            "Spread or pipe the frosting onto the cooled cupcakes."
+        ],
+        "summary": "Beat sugar, butter and eggs. Add sour cream, vanilla and red coloring. Mix in cocoa powder, flour, baking soda, salt."
+    },
+    {
+        "file_name": "rice_kheer.jpeg",
+        "noisy_title": "milky rice pudding",
+        "instructions": [
+            "In a large saucepan, combine coconut milk, milk, and sugar. Bring to a boil over medium heat.",
+            "Reduce the heat to low and simmer, stirring occasionally, until the mixture thickens slightly, about 10 minutes.",
+            "Add cardamom, pistachios, and raisins to the saucepan. Continue to simmer for another 5 minutes.",
+            "Remove from heat and let it cool to room temperature.",
+            "Refrigerate for at least 2 hours before serving.",
+            "Serve chilled, garnished with additional pistachios and raisins if desired."
+        ],
+        "summary": "Boil coconut milk, milk and sugar in a pan. Add cardamom, pistachios, raisins after it thickens."
+    },
+    {
+        "file_name": "samosa.jpeg",
+        "noisy_title": "crispy spiced pocket",
+        "instructions": [
+            "In a large bowl, combine flour and oil. Gradually add water to form a firm dough.",
+            "Knead the dough for about 5 minutes until smooth. Cover with a damp cloth and let it rest for 30 minutes.",
+            "For the filling, cook mashed potatoes with peas and spices until well combined and heated through.",
+            "Divide the dough into small balls and roll each into a thin oval or circle.",
+            "Place a spoonful of the filling in the center of each dough piece.",
+            "Fold the dough over the filling to form a cone or triangle shape, sealing the edges tightly.",
+            "Heat oil in a deep fryer or large pan over medium heat.",
+            "Deep-fry the samosas until golden brown and crispy, about 3-4 minutes per side.",
+            "Remove from oil and drain on paper towels.",
+            "Serve hot with chutney or dipping sauce."
+        ],
+        "summary": "Mix flour and oil for a firm dough. Cook mashed potatoes with peas and spices for filling. Roll dough, shape into cones, fill, seal, and deep-fry until golden and crispy."
+    },
+    {
+        "file_name": "breakfast_strata.jpeg",
+        "noisy_title": "Cheesy Eggy Bake Stack",
+        "instructions": [
+            "Generously grease a 9x13-inch casserole dish.",
+            "Heat a skillet over medium heat; cook and stir sausage until crumbly and completely browned, about 10 minutes. Transfer cooked sausage to the prepared casserole dish.",
+            "Cook and stir mushrooms in the same skillet over medium heat until liquid has been released and mushrooms are lightly browned, 5 to 10 minutes; drain.",
+            "Combine mushrooms, bread, eggs, milk, Cheddar cheese, ham, spinach, flour, dry mustard, butter, basil, and salt together in a large bowl; pour over sausage.",
+            "Cover casserole dish and refrigerate, 2 hours to overnight.",
+            "Preheat the oven to 350°F (175°C).",
+            "Bake in the preheated oven until a knife inserted into the center comes out clean, 60 to 70 minutes."
+        ],
+        "summary": "Cook sausage and mushrooms, then layer in a dish. Mix bread, eggs, cheese, veggies, and seasonings; pour over sausage. Chill, then bake at 350°F for about an hour until set and golden."
+    },
+    {
+        "file_name": "thai_green_curry.jpeg",
+        "noisy_title": "Creamy Coconut Spice Bowl",
+        "instructions": [
+            "Pour 1 tablespoon soy sauce into a shallow dish. Place 1 tablespoon flour into a separate shallow dish. Toss chicken pieces in soy sauce, then in flour, coating pieces evenly.",
+            "Heat oil in a large skillet over medium-high heat. Add chicken; cook and stir until browned, about 5 minutes. Transfer chicken to a plate; set aside.",
+            "Reduce heat to medium and stir in curry paste. Cook for 1 minute until fragrant. Add green onions, garlic, and ginger; cook an additional 2 minutes.",
+            "Return chicken to the skillet, stirring to coat with curry paste. Stir in coconut milk, sugar, fish sauce, and remaining 1 tablespoon soy sauce; simmer over medium heat until chicken is tender and cooked through, about 20 minutes.",
+            "Serve curry with cilantro leaves."
+        ],
+        "summary": "Toss chicken in soy sauce and flour, then brown in a skillet. Sauté curry paste, add chicken back, stir in coconut milk, soy sauce, and fish sauce. Simmer until tender and serve with cilantro."
+    },
+    {
+        "file_name": "pasta_salad.jpeg",
+        "noisy_title": "zesty crunch bowl",
+        "instructions": [
+            "Cook rotini pasta in a large pot of lightly salted water until tender yet firm to the bite, about 12 minutes. Drain and rinse under cold water.",
+            "In a large bowl, combine the cooked pasta, pepperoni, cheese, vegetables, and herbs.",
+            "In a small bowl, whisk together olive oil, vinegar, mustard, sugar, salt, and pepper until well combined.",
+            "Pour the dressing over the pasta mixture and toss to coat evenly.",
+            "Cover and refrigerate for at least 2 hours before serving."
+        ],
+        "summary": "Cook rotini pasta, rinse, and combine with pepperoni, cheese, veggies, and herbs. Shake olive oil and spices to make a dressing, then toss it all together. May chill before serving."
+    },
+    {
+        "file_name": "lasagna.jpeg",
+        "noisy_title": "Cheesy Layered Oven Melt",
+        "instructions": [
+            "Preheat the oven to 350°F (175°C).",
+            "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water until al dente, about 8 minutes; drain.",
+            "Cook ground beef and sausage in a large pot over medium heat; drain. Stir in mushrooms, garlic salt, oregano, thyme, basil, and tomato sauce. Season with salt and pepper. Simmer 30 minutes.",
+            "Meanwhile, mix ricotta cheese, eggs, and Parmesan cheese together in a bowl.",
+            "Cover the bottom of a 9x13-inch baking dish with a thin layer of sauce. Layer 3 lasagna noodles over sauce. Spread about 1/3 ricotta cheese mixture over noodles. Sprinkle about 1/4 mozzarella cheese over ricotta cheese mixture. Ladle about 1/3 meat sauce over mozzarella cheese. Repeat layering twice more, finishing with remaining mozzarella cheese.",
+            "Bake in preheated oven until cheese melts and sauce bubbles, about 90 minutes. Cover lasagna with foil if cheese begins to get too dark. Let sit 10 to 15 minutes before serving."
+        ],
+        "summary": "Brown meat with onions and simmer in tomato sauce. Cook noodles and mix cheeses with eggs and herbs. Layer sauce, noodles, and cheese; bake until golden."
+    },
+    {
+        "file_name": "broccoli_alfredo_pasta.jpg",
+        "noisy_title": "Creamy Green Cheesy Twirls",
+        "instructions": [
+            "Bring a large pot of lightly salted water to a boil. Cook farfalle pasta at a boil, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Remove to a colander; reserve the pasta water for later use.",
+            "Add broccoli to a microwave-safe container along with 1/4 cup water. Cover and cook on High until bright green and tender with a bite, about 4 minutes. Drain; season with salt. Keep warm.",
+            "Meanwhile, melt butter in a skillet or saucepan over low heat. Stir in cream and allow to simmer, stirring often, 3 to 4 minutes.",
+            "Add cheese and garlic, stirring continuously, until cheese is melted. Stir in nutmeg and remove from heat. If sauce is too thick, stir in a bit of reserved pasta water. Season to taste with salt and pepper.",
+            "To serve, combine cooked pasta, cooked broccoli, and sauce. Garnish with fresh parsley sprigs, if desired."
+        ],
+        "summary": "Cook pasta until soft and steam broccoli until bright green. Simmer butter, cream, garlic, and cheese to make Alfredo sauce, thinning with pasta water if needed. Toss pasta and broccoli in the sauce, then serve."
+    }
+]

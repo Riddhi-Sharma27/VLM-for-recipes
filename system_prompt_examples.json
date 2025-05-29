@@ -1,0 +1,41 @@
+[
+    {
+        "file_name":"cinnamon_rolls.jpeg",
+        "noisy_title": "Snap and Swirl Rolls",
+        "summary":"Mix warm milk, melted margarine, flour, sugar, yeast, salt, egg, and water into dough; knead and let rest.Roll out dough, spread cinnamon-sugar filling with raisins, roll up, slice, and place in muffin tin, bake at 375°F for 20 minutes, then cool and serve warm."
+    },
+    
+    {
+        "file_name":"cheesy_garlic_bread.jpg",
+        "noisy_title": "Savory Bread Melt",
+        "summary":"Butter bread, add garlic powder, Parmesan, and mozzarella.Broil until golden, then top with parsley."
+    },
+
+    {
+        "file_name":"rajma.jpeg",
+        "noisy title":"spiced bean lava",
+        "summary":"Soak kidney beans overnight, then drain and rinse.Sauté spices and onion-ginger-garlic paste in oil, add tomatoes and cook until soft.Pressure cook beans with water and seasonings until tender, then stir in garam masala and garnish with cilantro."
+    },
+
+    {
+        "file_name":"ratatouille.jpg",
+        "noisy_title":"Veggie Swirl Stew",
+        "summary":" Mix tomato paste, onion, garlic, water, and olive oil in a baking dish as the base.Layer sliced vegetables in a spiral pattern; drizzle with olive oil, season, and sprinkle with thyme.Cover with parchment and bake at 375°F for 45 minutes until tender"
+    },
+
+    {
+        "file_name":"naan.jpg",
+        "noisy_title":"yeast flat",
+        "summary":"Mix yeast, sugar, warm water; let sit 10 min.Add flour, salt, yogurt, ghee; knead and rise 1.5 hrs.Shape, brush ghee, sprinkle kalonji, broil 2 min each side"
+    },
+    {
+        "file_name":"strawberry_drink.jpeg",
+        "noisy_title":"pink velvet pour",
+        "summary":"Blend thawed strawberries, amaretto, vanilla ice cream, extract, vodka, and ice until smooth. Pour into a glass and top with whipped cream and a strawberry."
+    },
+    {
+        "file_name":"fried_rice.jpeg",
+        "noisy_title":"Golden Grain Toss",
+        "summary":"Boil carrots briefly, add peas, and drain. Stir-fry with garlic in hot oil, scramble in eggs, then add cooked rice. Toss with soy sauce and sesame oil."
+    }
+]
